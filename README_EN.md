@@ -1,6 +1,6 @@
 # Immort
 
-A consolidated Skill repository based on `nuwa-skill`, with 3 external skills integrated under a runtime-first layout.
+An aggregated Skill repository built around `nuwa-skill`, with three external skills merged in and unified under a runtime-first structure.
 
 ## Repository Purpose
 

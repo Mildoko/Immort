@@ -1,6 +1,6 @@
 # Immort
 
-`nuwa-skill` 기반으로 3개의 외부 skill을 통합한 런타임 중심 Skill 저장소입니다.
+`nuwa-skill`을 중심으로 정리하고, 3개의 외부 skill을 병합한 런타임 우선 구조의 통합 Skill 저장소입니다.
 
 ## 저장소 목적
 
